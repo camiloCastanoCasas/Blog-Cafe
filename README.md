@@ -1,4 +1,4 @@
-# Blog-Cafe
+# Blog Cafe
 Proyecto con HTML, CSS. Totalmente Responsive.
 
 Visita la pagina del proyecto en:
